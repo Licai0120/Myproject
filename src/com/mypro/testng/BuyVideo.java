@@ -34,6 +34,8 @@ public class BuyVideo {
 	  driver =new ChromeDriver();
 	  baseUrl="http://www.zhitouwang.cn/login/login.html";
 	  driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS );
+	  
+	  
   }
 
   
