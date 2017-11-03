@@ -21,7 +21,7 @@ import org.testng.annotations.Test;
 import com.mypro.testng.pub.GetCurrentHandle;
 import com.mypro.testng.pub.Login;
 
-
+@Test 
 public class BuyVideo {
   private WebDriver driver;
   private String baseUrl;
